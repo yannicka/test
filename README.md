@@ -8,5 +8,6 @@ Et encore
 
 ```
 {
+    "key": "value"
 }
 ```
