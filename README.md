@@ -6,4 +6,7 @@ Encore
 
 Et encore
 
-{}
+```
+{
+}
+```
